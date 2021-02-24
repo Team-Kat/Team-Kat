@@ -8,5 +8,6 @@
 
 ## 소개 페이지
 + [프로젝트](pages/PROJECTS.md)
++ [팀원](pages/MEMBERS.md)
 + [채용](pages/RECRUIT.md)
 + [팀 내부](pages/TEAM.md)
