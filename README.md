@@ -7,5 +7,6 @@
 + 디스코드 - [링크](https://discord.gg/R5UG5mR)
 
 ## 소개 페이지
-+ [팀 내부](pages/TEAM.md)
++ [프로젝트](pages/PROJECTS.md)
 + [채용](pages/RECRUIT.md)
++ [팀 내부](pages/TEAM.md)
