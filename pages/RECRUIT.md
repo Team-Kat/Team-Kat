@@ -6,6 +6,7 @@ Google Form: https://forms.gle/qp316TH2RTE5kKxZ8
 ## 모집분야
 1. **프런트엔드 개발자**
 2. **백엔드 개발자**
+3. **Discommu 봇 개발자**
 
 ## 조건
 ### 공통
@@ -43,6 +44,19 @@ Google Form: https://forms.gle/qp316TH2RTE5kKxZ8
 
 **우대 조건**
 + API에 대한 Docs 개발 가능
+
+
+
+### Discommu 봇 개발자
++ async로 graphql 요청 가능해야함
++ 기존 discommu봇과 최대한 비슷하게 구현해야함
++ 웹에 있는 대부분 기능들이랑 개발자가 요청한 기능을 개발 할 수 있어야함
+
+**필수 언어**
++ Python(discord.py 등) 또는 Node.js(discord.js 등)
+
+**우대 조건**
++ 이미 팀원
 
 
 ## 채용 Step
