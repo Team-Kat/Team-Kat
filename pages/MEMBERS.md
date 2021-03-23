@@ -6,7 +6,7 @@ Hello, World!
 + Role: OWNER, HIGH MEMBER, MEMBER
 
 ## 파랑이
-
+그냥 인간
 + Discord: 파랑이#7777
 + Github: [pikokr](https://github.com/pikokr)
 + Role: HIGH MEMBER, MEMBER
