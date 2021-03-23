@@ -11,8 +11,8 @@ Hello, World!
 + Github: [pikokr](https://github.com/pikokr)
 + Role: HIGH MEMBER, MEMBER
 
-## Decave
+## Fxrcha
 
-+ Discord: _Decave#7946
-+ Github: [decave27](https://github.com/decave27)
++ Discord: 서초동 영업사원 벽벽이#6621
++ Github: [fxrcha]](https://github.com/fxrcha)
 + Role: HIGH MEMBER, MEMBER
