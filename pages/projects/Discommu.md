@@ -3,7 +3,8 @@
 
 ## 링크
 + [봇](https://discord.com/api/oauth2/authorize?client_id=761495487215042570&permissions=0&scope=bot)
-+ 웹(서비스 개발중)
++ [웹](https://discommu.ga)
++ [API](https://api.discommu.ga/graphql)
 
 ## 메인 아이디어
 봇에서 게시판을 사용할 수 있고 웹에서도 게시판을 사용할 수 있다
