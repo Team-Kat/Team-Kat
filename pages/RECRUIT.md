@@ -7,6 +7,7 @@ Google Form: https://forms.gle/qp316TH2RTE5kKxZ8
 1. **프런트엔드 개발자**
 2. **백엔드 개발자**
 3. **Discommu 봇 개발자**
+4. **UI 디자이너**
 
 ## 조건
 ### 공통
@@ -56,6 +57,15 @@ Google Form: https://forms.gle/qp316TH2RTE5kKxZ8
 + Python(discord.py 등) 또는 Node.js(discord.js 등)
 
 **우대 조건**
++ 이미 팀원
+
+
+
+### UI 디자이너
++ XD같은 UI 디자인 도구를 최대한 활용해 현대적이고 아름다운 UI디자인을 할 수 있어야함
+
+**우대 조건**
++ UI 말고도 아이콘같은것도 디자인 가능
 + 이미 팀원
 
 
