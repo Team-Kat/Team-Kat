@@ -12,14 +12,14 @@
 디스코드와 연동해서 굳이 계정을 만들지 않아도 되고 디스코드를 사용하는 많은 사람한테 말하고 싶을때 쓰면 된다
 
 ## 참가자
-@kiki7000 (메인 개발자, 제작자), @pikokr (서브 개발자)
+@kiki7000 (메인 개발자, 제작자), @pikokr (Helper)
 
 ## 개발 스택
 ### 동일
 + 데이터베이스: MongoDB (Atlas 사용)
 
 ### 백엔드
-+ 언어: Node.js
++ 언어: Typescript
 + 라이브러리: express + apollo-server + type-graphql
 + 형식: GraphQL
 
@@ -28,5 +28,5 @@
 + 라이브러리: TailwindCSS
 
 ### 봇
-+ 언어: Python
-+ 라이브러리: discord.py
++ 언어: Typescript
++ 라이브러리: discord.js
